@@ -14,6 +14,9 @@ import java.util.*;
 																
 public class Lab06vst extends Applet
 {
+	public void init() {
+		setSize(800, 600);
+	}
 	public void paint(Graphics g) 	
 	{
 		// Draw Grid
